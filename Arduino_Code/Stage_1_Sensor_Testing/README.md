@@ -6,4 +6,4 @@ This stage focused on verifying:
 - Temperature readings
 - Humidity readings
 - Sensor communication stability
-- Real-time environmental monitoring
+- Real-time environmental monitoring 
