@@ -6,7 +6,7 @@
 ![Sensors](https://img.shields.io/badge/Focus-Environmental%20Sensors-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
----
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ## 📖 Overview
 
@@ -14,7 +14,7 @@ The **Smart Weather Monitoring System** is an Arduino based embedded environment
 
 The project combines environmental sensing, embedded firmware, LCD interfaces, real-time monitoring logic, and alert systems into a unified embedded systems platform.
 
----
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ## ✨ Project Features
 
@@ -29,7 +29,7 @@ The project combines environmental sensing, embedded firmware, LCD interfaces, r
 - Multi-stage subsystem development
 - Embedded systems integration
 
----
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ## 🛠 Hardware Used
 
@@ -41,7 +41,7 @@ The project combines environmental sensing, embedded firmware, LCD interfaces, r
 - Resistors and supporting components
 - USB serial communication
 
----
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ## 🔊 System Workflow
 
@@ -54,7 +54,7 @@ Environmental Sensors
 → Real-Time Monitoring Output
 ```
 
----
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ## 🧠 Engineering Concepts Demonstrated
 
@@ -69,7 +69,7 @@ Environmental Sensors
 - Multi-Subsystem Integration
 - Real-Time Embedded Visualization
 
----
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ## 📂 Repository Structure
 
@@ -92,7 +92,7 @@ Smart-Weather-Monitoring-System/
 └── README.md
 ```
 
----
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ## ⚙️ Development Stages
 
@@ -108,7 +108,7 @@ Environmental threshold detection and warning system development.
 ### Final System
 Integrated weather monitoring platform combining environmental sensing, LCD visualization, and embedded alert logic.
 
----
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ## 📊 Environmental Monitoring & Analysis
 
@@ -120,7 +120,7 @@ The system was designed to monitor and process:
 - Alert threshold conditions
 - Real-time sensor updates
 
----
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ## 📷 Project Photos
 
@@ -133,13 +133,13 @@ The system was designed to monitor and process:
 ### Environmental Sensor Subsystem
 ![Sensor System](Images/environmental_sensors.jpg)
 
----
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ## 🎥 Demo Video
 
 [Watch Project Demo](Videos/system_demo.mp4)
 
----
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ## 🚀 Future Improvements
 
@@ -152,7 +152,7 @@ The system was designed to monitor and process:
 - Add mobile device monitoring
 - Expand environmental sensor support
 
----
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ## 👨‍💻 Author
 
