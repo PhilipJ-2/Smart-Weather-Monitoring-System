@@ -7,3 +7,4 @@ This stage focused on displaying:
 - Humidity readings
 - Environmental status information
 - Real-time sensor updates
+ 
